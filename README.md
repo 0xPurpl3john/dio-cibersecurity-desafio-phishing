@@ -15,3 +15,10 @@ setoolkit
 ifconfig
 http://www.facebook.com
 ```
+
+# results
+### fb page example
+![fb example](https://github.com/purpl3john/dio-cibersecurity-desafio-phishing/blob/main/phishing01.png)
+
+### passwd result example
+![passwd example](https://github.com/purpl3john/dio-cibersecurity-desafio-phishing/blob/main/phishing02.png)
